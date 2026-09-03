@@ -133,7 +133,7 @@ _Add screenshot here_
 
 ## 👨‍💻 Author
 
-**Atharv Bhosale**
+**Atharv Tushar Bhosale**
 
 
 GitHub: https://github.com/atharv-bhosale11
