@@ -1,0 +1,47 @@
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Test & Coverage Files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Generated Backup Archives
+*.zip
+
+# Project Generated Backup Folder
+DataShieldBackup/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints/
