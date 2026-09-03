@@ -135,11 +135,4 @@ _Add screenshot here_
 
 **Atharv Tushar Bhosale**
 
-
 GitHub: https://github.com/atharv-bhosale11
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a star on GitHub.
