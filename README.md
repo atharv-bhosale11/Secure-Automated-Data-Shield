@@ -106,19 +106,6 @@ This creates backups every 10 minutes.
 5. Generates a ZIP archive of the backup.
 6. Repeats automatically at the specified interval.
 
----
-
-## 📸 Screenshots
-
-### Application Execution
-
-_Add screenshot here_
-
-### Generated Backup Archive
-
-_Add screenshot here_
-
----
 
 ## 📈 Future Enhancements
 
